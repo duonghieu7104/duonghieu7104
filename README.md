@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duonghieu7104&label=Profile%20views&color=0e75b6&style=flat" alt="duonghieu7104" /> </p>
 
-- 🔭 I’m currently working on *TripBot**
+- 🔭 I’m currently working on **TripBot**
 
 - 🌱 I’m currently learning **RAG chatbot (TripBot)** – a travel planning assistant that suggests detailed itineraries
 
